@@ -44,6 +44,7 @@ In the final step, we performed coin counting and segmentation. This involved th
 
 
 The resulting image is displayed below:
+
 ![download](https://github.com/umart823/Object-detection-using-opencv/assets/97828137/764757bc-02ad-40af-a598-1532d1bf08a5)
 
 ![download](https://github.com/umart823/Object-detection-using-opencv/assets/97828137/d41e4e29-7caa-4ef1-919c-c6e1a0aec2d6)
