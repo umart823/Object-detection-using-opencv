@@ -1,5 +1,5 @@
 # Object-detection-using-opencv
-##Introduction
+## Introduction
 This report presents the results of our image processing assignment, which involves various image processing techniques applied to the input image named "Coins.png." The assignment consists of the following steps:
 •	Importing the image
 •	Resizing the image
