@@ -38,9 +38,9 @@ The next step involved converting the grayscale image to binary using a threshol
 ### Step 5:  Coin Counting & Segmentation
 
 In the final step, we performed coin counting and segmentation. This involved the following sub-steps:
-•	Edge detection using the Canny algorithm.
-•	Contour detection to identify individual coins.
-•	Drawing contours around the detected coins on the original image.
+-	Edge detection using the Canny algorithm.
+-	Contour detection to identify individual coins.
+-	Drawing contours around the detected coins on the original image.
 
 
 The resulting image is displayed below:
@@ -48,5 +48,5 @@ The resulting image is displayed below:
 
 ![download](https://github.com/umart823/Object-detection-using-opencv/assets/97828137/d41e4e29-7caa-4ef1-919c-c6e1a0aec2d6)
 
-### The number of coins in the picture is 8
+#### The number of coins in the picture is 8
 
