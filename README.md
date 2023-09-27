@@ -2,6 +2,7 @@
 
 ## Step 1: Importing the image:
 import cv2
+
 import numpy as np
 
 image=cv2.imread("/content/Coins.png",cv2.IMREAD_UNCHANGED)
