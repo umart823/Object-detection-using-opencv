@@ -54,5 +54,5 @@ print("The number of coins in the picture is",len(cnt))
 
 ![download](https://github.com/umart823/Object-detection-using-opencv/assets/97828137/d41e4e29-7caa-4ef1-919c-c6e1a0aec2d6)
 
-###The number of coins in the picture is 8
+### The number of coins in the picture is 8
 
