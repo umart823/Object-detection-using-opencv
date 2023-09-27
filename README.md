@@ -8,6 +8,7 @@ import numpy as np
 image=cv2.imread("/content/Coins.png",cv2.IMREAD_UNCHANGED)
 
 cv2_imshow(image)
+![Uploading image.png…]()
 
 ## Step 2: Resizing the Image
 resized=cv2.resize(image,(256,256),cv2.INTER_AREA)
