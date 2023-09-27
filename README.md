@@ -1,6 +1,6 @@
 # Object-detection-using-opencv
 
-## Step 1: Importing the image:
+## Step 1: Importing the image
 import cv2
 
 import numpy as np
@@ -9,22 +9,22 @@ image=cv2.imread("/content/Coins.png",cv2.IMREAD_UNCHANGED)
 
 cv2_imshow(image)
 
-## Step2: Resizing the Image:
+## Step 2: Resizing the Image
 resized=cv2.resize(image,(256,256),cv2.INTER_AREA)
 
 cv2_imshow(resized)
 
-## Step3: RGB to Grayscale Conversion:
+## Step 3: RGB to Grayscale Conversion
 grayscale = cv2.cvtColor(resized, cv2.COLOR_BGR2GRAY)
 
 cv2_imshow(grayscale)
 
-## Step4: RGB to Binary Conversion:
+## Step 4: RGB to Binary Conversion
 ret,binary=cv2.threshold(grayscale,160,255,cv2.THRESH_BINARY)
 
 cv2_imshow(binary)
 
-## Step 5:  Coin Counting & Segmentation:
+## Step 5:  Coin Counting & Segmentation
 
 edges = cv2.dilate(cv2.Canny(binary,0,255),None)
 
