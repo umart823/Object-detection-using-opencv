@@ -1,13 +1,7 @@
 # Object-detection-using-opencv
 
 ## Step 1: Importing the image
-import cv2
-
-import numpy as np
-
-image=cv2.imread("/content/Coins.png",cv2.IMREAD_UNCHANGED)
-
-cv2_imshow(image)
+In the first step, we imported the input image "Coins.png" using the OpenCV library. The original image is displayed below:
 
 ![download](https://github.com/umart823/Object-detection-using-opencv/assets/97828137/efb6cd68-1ee3-409f-9af4-92eacd57452d)
 
