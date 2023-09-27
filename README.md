@@ -14,7 +14,7 @@ resized=cv2.resize(image,(256,256),cv2.INTER_AREA)
 
 cv2_imshow(resized)
 
-## Step3: RGB to Grayscale:
+## Step3: RGB to Grayscale Conversion:
 grayscale = cv2.cvtColor(resized, cv2.COLOR_BGR2GRAY)
 
 cv2_imshow(grayscale)
