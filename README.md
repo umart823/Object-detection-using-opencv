@@ -3,11 +3,11 @@
 ## Introduction
 
 This report presents the results of our image processing assignment, which involves various image processing techniques applied to the input image named "Coins.png." The assignment consists of the following steps:
-•	Importing the image
-•	Resizing the image
-•	Converting the image to grayscale
-•	Converting the grayscale image to binary
-•	Counting and segmenting the coins in the image
+-	Importing the image
+-	Resizing the image
+-	Converting the image to grayscale
+-	Converting the grayscale image to binary
+-	Counting and segmenting the coins in the image
 
 Each step is explained and demonstrated in detail in the following sections.
 
