@@ -8,6 +8,7 @@ import numpy as np
 image=cv2.imread("/content/Coins.png",cv2.IMREAD_UNCHANGED)
 
 cv2_imshow(image)
+
 ![download](https://github.com/umart823/Object-detection-using-opencv/assets/97828137/efb6cd68-1ee3-409f-9af4-92eacd57452d)
 
 
