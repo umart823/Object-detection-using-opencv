@@ -1,4 +1,4 @@
-# Object-detection-using-opencv
+# Object detection using opencv
 
 ## Introduction
 
